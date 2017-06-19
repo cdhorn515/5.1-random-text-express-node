@@ -1,5 +1,4 @@
 const express = require('express');
-const readline = require('readline');
 var loremIpsum = require('lorem-ipsum');
 
 const app = express();
