@@ -1,0 +1,27 @@
+{
+  "name": "5.1-random-text-express-node",
+  "version": "1.0.0",
+  "description": "generate random text using lorem ipsum express and node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdhorn515/5.1-random-text-express-node.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Christina Cornell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdhorn515/5.1-random-text-express-node/issues"
+  },
+  "homepage": "https://github.com/cdhorn515/5.1-random-text-express-node#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lorem-ipsum": "^1.0.4"
+  }
+}
